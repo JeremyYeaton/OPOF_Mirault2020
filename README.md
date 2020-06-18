@@ -3,9 +3,9 @@ Matlab code used for the EEG analyses presented in Mirault et al (2020) "Parafov
 
 # Requirements
 This is all Matlab code and requires the following open-source toolboxes to run:
-[EEGLAB](https://sccn.ucsd.edu/eeglab/index.php)
-[EYE-EEG Toolbox](http://www2.hu-berlin.de/eyetracking-eeg/)
-[Mass-Univariate ERP Toolbox](https://openwetware.org/wiki/Mass_Univariate_ERP_Toolbox)
+- [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php)
+- [EYE-EEG Toolbox](http://www2.hu-berlin.de/eyetracking-eeg/)
+- [Mass-Univariate ERP Toolbox](https://openwetware.org/wiki/Mass_Univariate_ERP_Toolbox)
 
 You will also need to make sure that you have Matlab configured for parallelization, as it is used to speed up the ICA training process.
 
